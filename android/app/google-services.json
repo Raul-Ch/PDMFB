@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95444687814",
+    "firebase_url": "https://pdmusers-73fec-default-rtdb.firebaseio.com",
+    "project_id": "pdmusers-73fec",
+    "storage_bucket": "pdmusers-73fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95444687814:android:261a11b4c91cf7eeb930c7",
+        "android_client_info": {
+          "package_name": "com.example.pdmbd_his"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95444687814-9gm70qdosj4pisfha0dqbfipumh9r5lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVWBEVkQ-9MZfrgDrDKGcw4s5ecZxtcRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95444687814-9gm70qdosj4pisfha0dqbfipumh9r5lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95444687814-og901svosm4dmeqq5q307gv1fvv7i65o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pdmbdHis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
